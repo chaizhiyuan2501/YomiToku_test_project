@@ -1,0 +1,2 @@
+# YomiToku_test_project
+AI OCRのYomiTokuを勉強するプロジェクト
